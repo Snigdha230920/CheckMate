@@ -1,4 +1,6 @@
 Flask
 Flask-SQLAlchemy
 gunicorn
-Pillow
+opencv-python-headless
+numpy
+pillow
